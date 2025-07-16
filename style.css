@@ -400,12 +400,6 @@ iframe {
   }
 }
 
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-  .descr-section {
-    background-image: url("./img/decsr-img-2х.webp");
-  }
-}
-
 @media screen and (min-width: 1440px) {
   .section {
     padding: 48px 0;
@@ -459,6 +453,7 @@ iframe {
 
   .descr-section {
     padding: 100px 0;
+    background-image: url("./img/decsr-img-2х.webp");
   }
 
   .descr-text {
