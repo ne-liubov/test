@@ -134,7 +134,7 @@ h1 {
 }
 
 .descr-section {
-  background-image: url("/img/decsr-img-1х.webp");
+  background-image: url("./img/decsr-img-1х.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
