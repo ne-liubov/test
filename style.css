@@ -402,7 +402,7 @@ iframe {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .descr-section {
-    background-image: url("/img/decsr-img-2х.webp");
+    background-image: url("./img/decsr-img-2х.webp");
   }
 }
 
