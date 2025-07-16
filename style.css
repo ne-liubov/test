@@ -106,6 +106,7 @@ h1 {
 .about-item {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .about-title {
@@ -133,7 +134,7 @@ h1 {
 }
 
 .descr-section {
-  background-image: url("/descr-img-1x.webp");
+  background-image: url("img/decsr-img-1х.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -401,7 +402,7 @@ iframe {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .descr-section {
-    background-image: url("/descr-img-2x.webp");
+    background-image: url("img/decsr-img-2х.webp");
   }
 }
 
