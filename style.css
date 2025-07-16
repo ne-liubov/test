@@ -133,14 +133,14 @@ h1 {
 }
 
 .descr-section {
-  background-image: url("./img/decsr-img-1х.webp");
+  background-image: url("/descr-img-1x.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .descr-text {
-  background-color: rgba(27, 29, 56, 0.692); /* белый с прозрачностью */
+  background-color: rgba(27, 29, 56, 0.692);
   color: #ffffff;
   padding: 20px;
   max-width: 300px;
@@ -401,7 +401,7 @@ iframe {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .descr-section {
-    background-image: url("./img/decsr-img-2х.webp");
+    background-image: url("/descr-img-2x.webp");
   }
 }
 
